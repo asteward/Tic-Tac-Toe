@@ -1,0 +1,12 @@
+.space {
+  float: left;
+}
+
+.btn {
+  width: 200px;
+  height: 200px;
+}
+
+#game-over {
+  display: none;
+}
